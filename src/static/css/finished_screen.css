@@ -1,0 +1,28 @@
+.finished_screen, .finished_screen .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 20px;
+    flex-direction: column;
+    animation: fade-in 1s ease;
+    position: relative;
+}
+
+.finished_screen .container .score {
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+
+.finished_screen .container .score.sufficient {
+    background-color: rgb(30, 255, 30);
+    color: rgb(43, 43, 43);
+}
+
+.finished_screen .container .score.insufficient {
+    background-color: rgb(255, 41, 41);
+}

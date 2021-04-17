@@ -1,0 +1,14 @@
+.start_screen, .start_screen .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 20px;
+    flex-direction: column;
+    animation: fade-in 1s ease;
+    position: relative;
+}
+
+.start_screen .container h1 {
+    text-align: center;
+}

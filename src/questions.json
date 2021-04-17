@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Hoeveel mensen sterven er nu al per jaar aan de gevolgen van  antibiotica resistentie?",
+        "correct": [
+            1
+        ],
+        "answers": [
+            "10,000",
+            "700,000",
+            "500",
+            "3,000,000"
+        ],
+        "short_exp": "in veel landen wordt er te weinig onderzoek naar resistentie gedaan. Waardoor veel mensen slachtoffer worden van antibiotica resistentie.",
+        "long_exp": "in veel landen wordt er te weinig onderzoek naar resistentie gedaan. Waardoor veel mensen slachtoffer worden van antibiotica resistentie. De resistentie kan overlopen op mensen waardoor het ook snel verspreid. Landelijke grenzen zijn geen ding."
+    },
+    {
+        "question": "Wat is een oorzaak voor resistentie tegen antibiotica resistentie? ",
+        "correct": [
+            1,
+            2,
+            3
+        ],
+        "answers": [
+            "Antibiotica resistentie wordt veroorzaakt door te vaccineren.",
+            "Mensen gebruiken te snel antibiotica bij een kwaal.",
+            "Antibiotica kuren worden niet afgemaakt",
+            "Antiotica voor dieren, met name in de vee industrie."
+        ],
+        "short_exp": "Korte uitleg over de manieren waarop je antibiotica resistent kan worden.",
+        "long_exp": "Lange uitleg met alle mogelijke manier waardoor je resistent kan worden."
+    }
+]

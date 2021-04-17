@@ -1,0 +1,24 @@
+
+
+@keyframes fade-in {
+    0% {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0px);
+        opacity: 100%;
+    }
+}
+
+.flat_button, .flat_button:hover {
+    cursor: pointer;
+    border: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-radius: 8px;
+    background-color: rgb(148, 0, 216);
+    padding: 15px;
+    font-size: 18px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
